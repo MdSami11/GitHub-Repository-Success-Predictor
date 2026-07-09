@@ -1,3 +1,7 @@
+
+
+
+
 # 🚀 GitHub Repository Success Predictor
 
 A Machine Learning project that predicts whether a GitHub repository is likely to become successful based on repository activity, metadata, and engineering signals.
@@ -97,4 +101,5 @@ python src/data_collection.py
 python src/preprocess.py
 python src/train_model.py
 streamlit run app.py
-```
+```<img width="726" height="904" alt="image" src="https://github.com/user-attachments/assets/b8ca5310-49af-46f2-8d49-a8d5a165c7b7" />
+
