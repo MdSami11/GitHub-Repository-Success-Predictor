@@ -1,7 +1,3 @@
-
-
-
-
 # 🚀 GitHub Repository Success Predictor
 
 A Machine Learning project that predicts whether a GitHub repository is likely to become successful based on repository activity, metadata, and engineering signals.
@@ -21,7 +17,6 @@ This project aims to predict repository success early using measurable signals l
 - update frequency
 - metadata patterns
 
----
 
 ## 🧠 Solution Overview
 
@@ -79,7 +74,8 @@ Final model selected: **Random Forest Classifier**
 4. Output is displayed with confidence score
 
 ---
-
+## Screenshot
+![image alt](https://github.com/MdSami11/GitHub-Repository-Success-Predictor/blob/5df79b8829a23485c2cdfae84add2a3bab92deeb/Screenshot%202026-07-09%20225134.png)
 
 ## 🌐 Live Demo
 
